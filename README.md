@@ -32,8 +32,6 @@
   <img src="9.jpg" alt="html">
   <img src="10.jpg" alt="html">
   <img src="11.jpg" alt="html">
-  </body>
-  <body>
   <video width="420" height="340" controls> 
 <source src="26.mp4" type="video/mp4">
     Your browser does not support the video tag.
