@@ -19,17 +19,19 @@
 }
 </style>
 <body>
+  <img src="22.jpg" alt="html">
+  <img src="21.jpg" alt="html">
+  <img src="1.jpg" alt="html">
+  <img src="2.jpg" alt="html">
+  <img src="3.jpg" alt="html">
   <img src="30.jpg" alt="html">
   <img src="31.jpg" alt="html">
   <img src="32.jpg" alt="html">
   <img src="33.jpg" alt="html">
   <img src="27.jpg" alt="html">
   <img src="28.jpg" alt="html">
-  <img src="22.jpg" alt="html">
-  <img src="21.jpg" alt="html">
-  <img src="1.jpg" alt="html">
-  <img src="2.jpg" alt="html">
-  <img src="3.jpg" alt="html">
+  </body>
+  <body>
   <video width="420" height="340" controls> 
 <source src="26.mp4" type="video/mp4">
     Your browser does not support the video tag.
